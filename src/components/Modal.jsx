@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import Mensaje from './mensaje';
+import Mensaje from './Mensaje';
 import CerrarBtn from '../img/cerrar.svg';
 
 
